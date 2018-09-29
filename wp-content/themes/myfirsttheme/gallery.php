@@ -15,7 +15,7 @@
                     </li>
                     <li>
                         <a href="/myfirstwp/wp-content/themes/myfirsttheme/gallery.php">
-                           Bilder eller nåt 
+                           Bilder eller nåt
                         </a>
                     </li>
                 </ul>
@@ -28,7 +28,7 @@
         </header>
             <div>
                 <h1>
-                    Startsida
+                    Bilder
                 </h1>
 
             </div>
