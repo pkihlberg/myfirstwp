@@ -9,6 +9,6 @@
         <meta name="viewport" content="width=device-width">
     </head>
     <body>
-        <h1>My first wordpress</h1>
+        <h1>fu k patnas</h1>
     </body>
 </html>
